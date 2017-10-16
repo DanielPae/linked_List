@@ -1,4 +1,4 @@
-all: linked_lists.c
-	gcc -o linked_lists linked_lists.c
+all: linked_List.c
+	gcc -o linked_list linked_List.c
 run: all
-	./linked_lists
+	./linked_list
